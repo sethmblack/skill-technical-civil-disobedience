@@ -3,8 +3,8 @@ name: technical-civil-disobedience
 description: A skill for applying civil disobedience principles to information systems - deliberate, public violation of unjust digital restrictions.
 license: MIT
 metadata:
-  version: 1.0.5144
   author: sethmblack
+  version: 1.0.5145
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - technical-civil-disobedience
